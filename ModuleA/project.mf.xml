@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest>
+    <application name="ModuleA">
+        <crown name="ModuleA">
+            <desc>user script</desc>
+        </crown>
+        <meta key="author">SICK AG</meta>
+        <meta key="version">0.2.0</meta>
+        <meta key="priority">low</meta>
+        <meta key="copy-protected">false</meta>
+        <meta key="read-protected">false</meta>
+        <entry default="AppaMain.lua" path="scripts"/>
+    </application>
+</manifest>
